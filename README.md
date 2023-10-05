@@ -10,22 +10,17 @@ In this section, you should go over the different parts of your project, and des
 
 ### Existing Features
 
-- __The Love Maths Logo and Heading__
+- __ Logo and Heading__
 
-  - Featured at the top of the page, the Love Maths logo and heading is easy to see for the user. Upon viewing the page, the user will be able to see the name of the game.
+  - Featured at the top of the page, are a simple logo representing the three hands of rock, paper scisors. The heading is easy to see for the user and it is at level with the logo but displayed in the top middle of the page. Upon viewing the page, the user will be able to see the name of the game.
 
 ![Logo](media/)
 
 - __The Game Area__
 
-  - This section will allow the user to play the maths game. The user will be able to easily see icons for addition,  subtraction, multiplication, and division games.
-  - The user will be able to select the type of maths game they will be playing by clicking on the different icons. 
-
-![Game](media/love_maths_icons.png)
-
 -The game interface provides users with an interactive and visually appealing platform to play the classic Rock, Paper, Scissors game. Users can make their choices easily by clicking on buttons.
 
-![Question](media/love_maths_question.png)
+![Game](media/love_maths_icons.png)
 
 - __The Scoring System__
 
@@ -37,31 +32,29 @@ In this section, you should go over the different parts of your project, and des
 -The JavaScript code implements the game's logic, enabling users to play rounds against the computer. It adds interactivity to the website, making it engaging and fun for users.
 
 #Limited Tries:
--The limited number of tries adds a challenging aspect to the game. Users have a set number of attempts to win against the computer, adding excitement and motivation to keep playing.
+-The limited number of tries to three adds a challenging aspect to the game. Users have a set number of attempts to win against the computer, adding excitement and motivation to keep playing.
 
 #Game Result Display:
 -The game result display provides immediate feedback to users, informing them whether they won, lost, or tied a round. This feedback keeps users engaged and informed about their progress.
 
 ### Features Left to Implement
 
-- Another feature idea
+- Multiplayer Mode.
+  - Enable users to play the Rock, Paper, Scissors game against each other in real-time, adding a competitive and social aspect to the experience.
 
 #Accessibility
-
 For the accessibility this was used:
-Semantic HTML.
-Alt attributes on images.
-Sufficient colour contrast.
+-Semantic HTML.
+-Alt attributes on images.
+-Sufficient colour contrast.
 
 ## Testing 
-
 -Chrome developer tools was used to find any issues while building the webpage.
 -The W3C validators for HTML and CSS was used when the webpage was finsihed. JSHint was used for JavaScript.
 
 *Lighthouse testing
 
 ### Validator Testing 
-
 - HTML
     - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-maths%2F)
 - CSS
@@ -71,11 +64,9 @@ Sufficient colour contrast.
       
 
 ### Unfixed Bugs
-
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
 
 ## Deployment
-
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
@@ -89,12 +80,10 @@ The live link can be found here - https://code-institute-org.github.io/love-math
 ## Credits 
 
 ### Content 
-
 - The text for the game page was taken from Wikipedia Rock paper 
 - Instructions on how to write event listeners were take from [W3School](https://www.w3schools.com/js/js_htmldom_eventlistener.asp#:~:text=removeEventListener()%20method.-,Syntax,call%20when%20the%20event%20occurs.)
 - Ideas taken to design the game taken from 
 
 ### Media
-
 - The images used for the logo was taken from Google Images-creative commons. 
 
