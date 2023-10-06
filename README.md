@@ -24,21 +24,21 @@ In this section, you should go over the different parts of your project, and des
 
 - __The Scoring System__
 
- -The scoring system keeps track of the user's and computer's scores, allowing users to compete against the computer and see how well they perform in the game.
+ The scoring system keeps track of the user's and computer's scores, allowing users to compete against the computer and see how well they perform in the game.
 
 ![score](media/love_maths_answer.png)
 
 - Game Logic
 
- -The JavaScript code implements the game's logic, enabling users to play rounds against the computer. It adds interactivity to the website, making it engaging and fun for users.
+ The JavaScript code implements the game's logic, enabling users to play rounds against the computer. It adds interactivity to the website, making it engaging and fun for users.
 
 - Limited Tries
 
- -The limited number of tries to three adds a challenging aspect to the game. Users have a set number of attempts to win against the computer, adding excitement and motivation to keep playing.
+ The limited number of tries to three adds a challenging aspect to the game. Users have a set number of attempts to win against the computer, adding excitement and motivation to keep playing.
 
 - Game Result Display
 
- -The game result display provides immediate feedback to users, informing them whether they won, lost, or tied a round. This feedback keeps users engaged and informed about their progress.
+ The game result display provides immediate feedback to users, informing them whether they won, lost, or tied a round. This feedback keeps users engaged and informed about their progress.
 
 ### Features Left to Implement
 
