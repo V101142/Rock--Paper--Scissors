@@ -49,7 +49,7 @@ In this section, you should go over the different parts of your project, and des
 
 For the accessibility this was used:
 - Semantic HTML.
-- Alt attributes on images.
+- Alt attributes on image.
 - Sufficient colour contrast.
 
 ## Testing 
