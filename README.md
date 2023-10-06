@@ -10,7 +10,7 @@ In this section, you should go over the different parts of your project, and des
 
 ### Existing Features
 
-- __ Logo and Heading__
+- __Logo and Heading__
 
   - Featured at the top of the page, are a simple logo representing the three hands of rock, paper scisors. The heading is easy to see for the user and it is at level with the logo but displayed in the top middle of the page. Upon viewing the page, the user will be able to see the name of the game.
 
@@ -39,7 +39,7 @@ In this section, you should go over the different parts of your project, and des
 
 ### Features Left to Implement
 
-- Multiplayer Mode.
+- Multiplayer Mode
   - Enable users to play the Rock, Paper, Scissors game against each other in real-time, adding a competitive and social aspect to the experience.
 
 #Accessibility
@@ -80,9 +80,8 @@ The live link can be found here - https://code-institute-org.github.io/love-math
 ## Credits 
 
 ### Content 
-- The text for the game page was taken from Wikipedia Rock paper 
+- The text for the game page was taken from Wikipedia Rock paper. 
 - Instructions on how to write event listeners were take from [W3School](https://www.w3schools.com/js/js_htmldom_eventlistener.asp#:~:text=removeEventListener()%20method.-,Syntax,call%20when%20the%20event%20occurs.)
-- Ideas taken to design the game taken from 
 
 ### Media
 - The images used for the logo was taken from Google Images-creative commons. 
