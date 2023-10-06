@@ -2,7 +2,7 @@
 
 Rock, Parer, Scissors Game offers an accessible, responsive, and entertaining platform for users to play the game while adhering to principles of user experience design. It caters to individuals seeking a quick and enjoyable online game experience, making it a fun and engaging choice for a wide range of users while plaing against the computer. 
 
-![Responsice Mockup](media/love_maths_mockup.png)
+![Game page ](C:\Users\Valentina\OneDrive - The Open University\Desktop\Game main page.PNG)
 
 ## Features 
 
@@ -14,19 +14,17 @@ In this section, you should go over the different parts of your project, and des
 
   - Featured at the top of the page, are a simple logo representing the three hands of rock, paper scisors. The heading is easy to see for the user and it is at level with the logo but displayed in the top middle of the page. Upon viewing the page, the user will be able to see the name of the game.
 
-![Logo](media/)
+![Logo](C:\Users\Valentina\OneDrive - The Open University\Desktop\logo.image.png)
 
 - __The Game Area__
 
  -The game interface provides users with an interactive and visually appealing platform to play the classic Rock, Paper, Scissors game. Users can make their choices easily by clicking on buttons.
 
-![Game](media/love_maths_icons.png)
+![Game](C:\Users\Valentina\OneDrive - The Open University\Desktop\Score and results game.PNG)
 
 - __The Scoring System__
 
  The scoring system keeps track of the user's and computer's scores, allowing users to compete against the computer and see how well they perform in the game.
-
-![score](media/love_maths_answer.png)
 
 - Game Logic
 
@@ -57,7 +55,7 @@ For the accessibility this was used:
 -The W3C validators for HTML and CSS was used when the webpage was finsihed. JSHint was used for JavaScript.
 
 *Lighthouse testing
-
+![](C:\Users\Valentina\OneDrive - The Open University\Desktop\Score and results game.)
 ### Validator Testing 
 - HTML
     - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-maths%2F)
