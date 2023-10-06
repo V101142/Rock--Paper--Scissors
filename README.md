@@ -45,11 +45,12 @@ In this section, you should go over the different parts of your project, and des
 - Multiplayer Mode
   - Enable users to play the Rock, Paper, Scissors game against each other in real-time, adding a competitive and social aspect to the experience.
 
-#Accessibility
+# Accessibility
+
 For the accessibility this was used:
--Semantic HTML.
--Alt attributes on images.
--Sufficient colour contrast.
+- Semantic HTML.
+- Alt attributes on images.
+- Sufficient colour contrast.
 
 ## Testing 
 -Chrome developer tools was used to find any issues while building the webpage.
