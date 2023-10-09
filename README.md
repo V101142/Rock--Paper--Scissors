@@ -118,16 +118,21 @@ For the accessibility this was used:
 -The W3C validators for HTML and CSS was used when the webpage was finished. 
 -JSHint was used for JavaScript.
 
-*Lighthouse testing
+* Lighthouse testing
 ![]()
 
 ### Validator Testing 
 - HTML
-    - No errors were returned when passing through the official W3C validator.
+    - No errors were returned when passing through the official W3C validator- https://validator.w3.org/nu/#textarea
 - CSS
-    - No errors were found.
+    - No errors were found - https://validator.w3.org/nu/#textarea
 - JavaScript
     - No errors were found.
+* Metrics
+- There are 10 functions in this file.
+- Function with the largest signature take 1 arguments, while the median is 0.
+- Largest function has 16 statements in it, while the median is 2.5.
+- The most complex function has a cyclomatic complexity value of 9 while the median is 1.
       
 
 ## Deployment
@@ -145,15 +150,11 @@ The live link can be found here - https://v101142.github.io/Rock--Paper--Scissor
 
 ### Content 
 - The text for the game page was taken from Wikipedia Rock paper. 
-- Instructions on how to write event listeners were take from W3School (https://www.w3schools.com/js/js_htmldom_eventlistener.asp#:~:text=removeEventListener()%20method.-,Syntax,call%20when%20the%20event%20occurs.)
+- Instructions on how to write event listeners were take from [W3School](https://www.w3schools.com/js/js_htmldom_eventlistener.asp#:~:text=removeEventListener()%20method.-,Syntax,call%20when%20the%20event%20occurs.)
 
 ### Media
-- The images used for the logo was taken from Google Images-creative commons. 
+- The images used for the logo was taken from [Google Images-creative commons.](https://8000-v101142-rock-paper-sci-7qwkvnyxdp.us2.codeanyapp.com/assets/images/logo.image.png)
 
-=======
-
->>>>>>> 0ee63a2d736057bb8cb717d6a7a4c985e92b0fdd
-]
 - JavaScript
     - No errors were found.
       
@@ -173,7 +174,7 @@ The live link can be found here - https://v101142.github.io/Rock--Paper--Scissor
 
 ### Content 
 - The text for the game page was taken from Wikipedia Rock paper. 
-- Instructions on how to write event listeners were take from W3School](https://www.w3schools.com/js/js_htmldom_eventlistener.asp#:~:text=removeEventListener()%20method.-,Syntax,call%20when%20the%20event%20occurs.)
+- Instructions on how to write event listeners were take from [W3School](https://www.w3schools.com/js/js_htmldom_eventlistener.asp#:~:text=removeEventListener()%20method.-,Syntax,call%20when%20the%20event%20occurs.)
 
 ### Media
 - The images used for the logo was taken from Google Images-creative commons. 
