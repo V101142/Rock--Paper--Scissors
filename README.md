@@ -14,7 +14,8 @@ In this section, you should go over the different parts of your project, and des
 
   - Featured at the top of the page, are a simple logo representing the three hands of rock, paper scisors. The heading is easy to see for the user and it is at level with the logo but displayed in the top middle of the page. Upon viewing the page, the user will be able to see the name of the game.
 
-![Logo]()
+![Logo and Heading](![image](https://github.com/V101142/Rock--Paper--Scissors/assets/137928565/e5b10011-530a-47b8-9ac2-57a31350031f)
+)
 
 - __The Game Area__
 
@@ -44,7 +45,8 @@ In this section, you should go over the different parts of your project, and des
   - Enable users to play the Rock, Paper, Scissors game against each other in real-time, adding a competitive and social aspect to the experience.
 
 ## Accessibility
-
+[Score](![image](https://github.com/V101142/Rock--Paper--Scissors/assets/137928565/f4483b89-90dd-44ac-9f04-51f6994739c3)
+)
 For the accessibility this was used:
 - Semantic HTML.
 - Alt attributes on image.
@@ -55,7 +57,11 @@ For the accessibility this was used:
 -JSHint was used for JavaScript.
 
 *Lighthouse testing
-![]()
+
+[Link to Lighthouse tool](https://8000-v101142-rock-paper-sci-7qwkvnyxdp.us2.codeanyapp.com/)
+
+![image](https://github.com/V101142/Rock--Paper--Scissors/assets/137928565/3722ef04-9a97-4bfc-a5bb-6b099412124e)
+
 
 ### Validator Testing 
 - HTML
@@ -66,7 +72,8 @@ For the accessibility this was used:
 
 Rock, Parer, Scissors Game offers an accessible, responsive, and entertaining platform for users to play the game while adhering to principles of user experience design. It caters to individuals seeking a quick and enjoyable online game experience, making it a fun and engaging choice for a wide range of users while plaing against the computer. 
 
-![Game page]()
+![Game tries example](![image](https://github.com/V101142/Rock--Paper--Scissors/assets/137928565/9d2c3f4e-0310-4969-90e2-d07097fb0253)
+)
 
 ## Features 
 
