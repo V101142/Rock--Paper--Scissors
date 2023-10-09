@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const userScoreDisplay = document.getElementById("user-score");
     const computerScoreDisplay = document.getElementById("computer-score");
     const triesLeftDisplay = document.getElementById("tries-left");
+    const resetButton = document.getElementById("reset-button"); // Add this line
 
     let userScore = 0;
     let computerScore = 0;
@@ -55,6 +56,24 @@ document.addEventListener("DOMContentLoaded", function () {
         } else {
             gameResultDisplay.textContent = "It's a tie game.";
         }
+    }
+
+    resetButton.addEventListener("click", function () {
+        resetGame();
+    });
+
+    function resetGame() {
+        userScore = 0;
+        computerScore = 0;
+        triesLeft = 3;
+        triesLeftDisplay.textContent = triesLeft;
+        choices.forEach(choice => {
+            choice.removeAttribute("disabled");
+        });
+        gameResultDisplay.textContent = "";
+        computerChoiceDisplay.textContent = "-";
+        userScoreDisplay.textContent = "0";
+        computerScoreDisplay.textContent = "0";
     }
 
     choices.forEach(choice => {
