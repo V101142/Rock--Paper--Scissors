@@ -8,22 +8,22 @@ Rock, Parer, Scissors Game offers an accessible, responsive, and entertaining pl
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-### Existing Features
+## Existing Features
 
-- __Logo and Heading__
+# Logo and Heading
 
   - Featured at the top of the page, are a simple logo representing the three hands of rock, paper scisors. The heading is easy to see for the user and it is at level with the logo but displayed in the top middle of the page. Upon viewing the page, the user will be able to see the name of the game.
 
 ![image](![image](https://github.com/V101142/Rock--Paper--Scissors/assets/137928565/e5b10011-530a-47b8-9ac2-57a31350031f)
 )
 
-- __The Game Area__
+# The Game Area
 
  -The game interface provides users with an interactive and visually appealing platform to play the classic Rock, Paper, Scissors game. Users can make their choices easily by clicking on buttons.
 
 ![Game](C:\Users\Valentina\OneDrive - The Open University\Desktop\Score and results game.PNG)
 
-- __The Scoring System__
+# The Scoring System
 
  The scoring system keeps track of the user's and computer's scores, allowing users to compete against the computer and see how well they perform in the game.
 
@@ -65,13 +65,6 @@ For the accessibility this was used:
 [Link to Lighthouse tool](https://8000-v101142-rock-paper-sci-7qwkvnyxdp.us2.codeanyapp.com/)
 
 ![image](https://github.com/V101142/Rock--Paper--Scissors/assets/137928565/3722ef04-9a97-4bfc-a5bb-6b099412124e)
-
-
-### Validator Testing 
-- HTML
-    - No errors were returned when passing through the official W3C validator.
-- CSS
-    - No errors were found.
 
 ### Validator Testing 
 - HTML
