@@ -14,8 +14,8 @@ In this section, you should go over the different parts of your project, and des
 
   - Featured at the top of the page, are a simple logo representing the three hands of rock, paper scisors. The heading is easy to see for the user and it is at level with the logo but displayed in the top middle of the page. Upon viewing the page, the user will be able to see the name of the game.
 
-![image](![image](https://github.com/V101142/Rock--Paper--Scissors/assets/137928565/e5b10011-530a-47b8-9ac2-57a31350031f)
-)
+![image](https://github.com/V101142/Rock--Paper--Scissors/assets/137928565/e5b10011-530a-47b8-9ac2-57a31350031f)
+
 
 ### The Game Area
 
