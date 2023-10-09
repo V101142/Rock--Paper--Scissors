@@ -10,20 +10,20 @@ In this section, you should go over the different parts of your project, and des
 
 ## Existing Features
 
-# Logo and Heading
+### Logo and Heading
 
   - Featured at the top of the page, are a simple logo representing the three hands of rock, paper scisors. The heading is easy to see for the user and it is at level with the logo but displayed in the top middle of the page. Upon viewing the page, the user will be able to see the name of the game.
 
 ![image](![image](https://github.com/V101142/Rock--Paper--Scissors/assets/137928565/e5b10011-530a-47b8-9ac2-57a31350031f)
 )
 
-# The Game Area
+### The Game Area
 
  -The game interface provides users with an interactive and visually appealing platform to play the classic Rock, Paper, Scissors game. Users can make their choices easily by clicking on buttons.
 
 ![Game](C:\Users\Valentina\OneDrive - The Open University\Desktop\Score and results game.PNG)
 
-# The Scoring System
+### The Scoring System
 
  The scoring system keeps track of the user's and computer's scores, allowing users to compete against the computer and see how well they perform in the game.
 
@@ -50,7 +50,7 @@ In this section, you should go over the different parts of your project, and des
 
 ## Accessibility
 ![image](https://github.com/V101142/Rock--Paper--Scissors/assets/137928565/f4483b89-90dd-44ac-9f04-51f6994739c3)
-)
+
 For the accessibility this was used:
 - Semantic HTML.
 - Alt attributes on image.
