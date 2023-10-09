@@ -66,6 +66,13 @@ main {
     background-color: rgb(16, 180, 117);
 }
 
+}
+@media screen and (max-width: 600px) {
+    main {
+        padding: 10px;
+    }
+}
+
 .score,.tries {
     text-align: center;
     margin-top: 20px;
