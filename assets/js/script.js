@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const userScoreDisplay = document.getElementById("user-score");
     const computerScoreDisplay = document.getElementById("computer-score");
     const triesLeftDisplay = document.getElementById("tries-left");
-    const resetButton = document.getElementById("reset-button"); // Add this line
+    const resetButton = document.getElementById("reset-button");
 
     let userScore = 0;
     let computerScore = 0;
@@ -58,10 +58,6 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
 
-    resetButton.addEventListener("click", function () {
-        resetGame();
-    });
-
     function resetGame() {
         userScore = 0;
         computerScore = 0;
@@ -75,6 +71,10 @@ document.addEventListener("DOMContentLoaded", function () {
         userScoreDisplay.textContent = "0";
         computerScoreDisplay.textContent = "0";
     }
+
+    resetButton.addEventListener("click", function () {
+        resetGame();
+    });
 
     choices.forEach(choice => {
         choice.addEventListener("click", function () {
